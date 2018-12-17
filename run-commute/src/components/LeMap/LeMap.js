@@ -44,7 +44,7 @@ class LeMap extends Component {
     return (
   <div>
         
-  {/* <p>{[latitude, longitude]}</p> */}
+  <p>{[latitude, longitude]}</p>
   <Map
   style="mapbox://styles/mapbox/streets-v9"
   // logoPosition='top-right'
