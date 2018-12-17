@@ -50,7 +50,7 @@ class LeMap extends Component {
   // logoPosition='top-right'
   center={[longitude, latitude]}
   // center={[-77.0369, 38.9072]} DEFAULT FOR DC
-  zoom={[12]}
+  zoom={[15]}
   containerStyle={{
     height: "100vh",
     width: "100vw"
