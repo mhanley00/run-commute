@@ -2,7 +2,7 @@
 
 There are apps that tell you the fastest way to walk or bike from point A to B, but neither is quite right for a run. Walking routes are usually the shortest distance between A and B, but at the cost of routing through lots of stop lights and high-traffic pedestrian areas. This forces a runner to stop frequently and dodge between people- super frustrating when you're trying to get to point B _and_ get a workout in. Cycling routes are bound by one-way streets and once again, usually route via higher traffic areas when they're based on popularity, increasing the amount of times a runner has to stop along the way. 
 
-Run commuting in New York City, I learned quickly that not only was it usually faster*, but far more enjoyable to go a little out of my way to run along waterfront greenways, parks, and quiet neighborhoods. Pretty soon I was run commuting three times a week, and varying my route to include 2+ boros and/or running a massive 20 mile loop that ended one subway stop away from work. 
+Run commuting in New York City, I learned quickly that not only was it usually faster*, but far more enjoyable to go a little out of my way to run along waterfront greenways, parks, and quiet neighborhoods. Pretty soon I was run commuting three times a week, and varying my route to include 2+ boros and/or running a massive 20 mile loop that ended one subway stop away from work (_read: loop that ended at my favorite bagel shop, that happened to be one stop from work_). 
 
 I thus have set out to build an app that will create runner-first routing solutions for more enjoyable run commuting courses. Here are what my development phases look like:
 
