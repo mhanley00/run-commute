@@ -7,7 +7,7 @@ Run commuting in New York City, I learned quickly that not only was it usually f
 I thus have set out to build an app that will create runner-first routing solutions for more enjoyable run commuting courses. Here are what my development phases look like:
 
 # Phase 0:
-Read documentation for Mapbox's GL JS, Directions, and Geocoding APIs, OpenStreetMap's API, +/- any additional, helpful APIs I discover along the way. Recommendations welcome!
+Delve into documentation for Mapbox's GL JS, Directions, and Geocoding APIs, OpenStreetMap's API, +/- any additional, helpful APIs I discover along the way. Recommendations welcome!
 
 # Phase 1:
 Create app that will 'snap' point to point running routes to known greenways, parks, and quiet neighborhoods. Hopefully can do this part with a combination of MongoDB's geospatial queries and Node.js, but might need to learn Python for this one...
